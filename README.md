@@ -19,6 +19,8 @@
 
 **Power BI projektas (.pdf)** Tai yra projektas eksportuotas į PDF formatą.
 
+**Dashboard'as1-4.png** Tai yra šio projekto pagrindiniai dashboard'ai su skirtingais rodikliais, lentelėmis ir vizualizacijomis.
+
 **Power BI dimensijos (.png)** Tai yra šio projekto duomenų modelis su ryšiais tarp lentelių.
 
 ![Projekto duomenų modelis](https://github.com/Karinaskd/Power-BI/blob/main/Power%20BI%20dimensijos.png)
