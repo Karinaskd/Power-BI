@@ -4,6 +4,9 @@
 
 Šis projektas buvo sukurtas tam, kad išmokti dirbti su **Power BI ir Power Query.** Šio projekto tikslas yra **išanalizuoti Kalifornijos prekybos centrų pardavimus ir pateikti naudingų įžvalgų.** Šiame projekte buvo analizuojami duomenis iš kaggle platformos: **https://www.kaggle.com/datasets/captaindatasets/istanbul-mall**. Duomenims paruošti buvo naudojamas Power Query: **duomenų valymas, transformacijos, lentelių sujungimas,** o Power BI aplinkoje buvo **kuriamas duomenų modelis, DAX skaičiavimai ir interaktyvios vizualizacijos.** Projektas buvo skirtas mokymosi tikslams.
 
+### Projekto tikslas
+![Dashboard'as1](Dashboard'as5.png)
+
 ### Projekto Dashboard'ai
 ![Dashboard'as1](Dashboard'as1.png)
 
@@ -13,13 +16,16 @@
 
 ![Dashboard'as4](Dashboard'as4.png)
 
+### Projekto išvados
+![Dashboard'as1](Dashboard'as6.png)
+
 ## Projekto struktūra
 
 **Power BI projektas (.pbix)** Tai yra originalus projektas, kuriame yra vizualizacijos, dashboardai, yra aprašyti projekto tikslai ir išvados.
 
 **Power BI projektas (.pdf)** Tai yra projektas eksportuotas į PDF formatą.
 
-**Dashboard'as1-4.png** Tai yra šio projekto pagrindiniai dashboard'ai su skirtingais rodikliais, lentelėmis ir vizualizacijomis.
+**Dashboard'as1-6.png** Tai yra šio projekto pagrindiniai dashboard'ai su skirtingais rodikliais, lentelėmis ir vizualizacijomis bei projekto tikslas ir išvados.
 
 **Power BI dimensijos (.png)** Tai yra šio projekto duomenų modelis su ryšiais tarp lentelių.
 
